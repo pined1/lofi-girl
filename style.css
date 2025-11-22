@@ -17,7 +17,7 @@ body {
     font-family: 'Inter', sans-serif;
     background-color: var(--bg-color);
     /* Placeholder Lofi Girl style wallpaper */
-    background-image: url('assets/images/lofi-girl.jpg');
+    background-image: url('lofi-girl.jpeg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
